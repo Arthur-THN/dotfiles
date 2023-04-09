@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.cache/*
+.fehbg
+.gnupg/*
+.installed.txt
+.lesshst
+.local/*
+.mozilla/*
+.wget-hsts
+snap/*
+tmp/*
+
+
